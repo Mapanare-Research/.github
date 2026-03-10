@@ -62,6 +62,7 @@ No `asyncio`. No event loops. No frameworks. Just agents as language primitives.
 |-----------|-------------|
 | [**Mapanare**](https://github.com/Mapanare-Research/Mapanare) | The compiler, runtime, standard library, LLVM backend, and VS Code extension |
 | [**skills**](https://github.com/Mapanare-Research/skills) | Mapanare skill for AI coding agents — Claude Code, Cursor, Windsurf |
+| [**tree-sitter-mapanare**](https://github.com/Mapanare-Research/tree-sitter-mapanare) | Tree-sitter grammar — syntax highlighting for Neovim, Helix, Zed, GitHub |
 
 ---
 
