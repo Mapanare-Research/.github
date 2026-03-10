@@ -134,8 +134,6 @@ Read the [Getting Started guide](https://mapanare.dev/docs/getting-started) or b
 
 <div align="center">
 
-**Built with care by [Juan Denis](https://juandenis.com)**
-
 Built by [Juan Denis](https://juandenis.com) with an assist from [Claude](https://claude.ai).
 
 [Docs](https://mapanare.dev/docs) · [Benchmarks](https://mapanare.dev/benchmarks) · [Manifesto](https://mapanare.dev/docs/manifesto) · [Discord](https://discord.gg/5hpGBm3WXf) · [Twitter](https://x.com/mapanare) · [Contributing](https://github.com/Mapanare-Research/Mapanare/blob/main/CONTRIBUTING.md)
