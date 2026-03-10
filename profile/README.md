@@ -136,7 +136,7 @@ Read the [Getting Started guide](https://mapanare.dev/docs/getting-started) or b
 
 **Built with care by [Juan Denis](https://juandenis.com)**
 
-*with help from [Claude](https://claude.ai) — the AI that helped shape the language, the compiler, the docs, and this very page.*
+Built by [Juan Denis](https://juandenis.com) with an assist from [Claude](https://claude.ai).
 
 [Docs](https://mapanare.dev/docs) · [Benchmarks](https://mapanare.dev/benchmarks) · [Manifesto](https://mapanare.dev/docs/manifesto) · [Discord](https://discord.gg/5hpGBm3WXf) · [Twitter](https://x.com/mapanare) · [Contributing](https://github.com/Mapanare-Research/Mapanare/blob/main/CONTRIBUTING.md)
 
